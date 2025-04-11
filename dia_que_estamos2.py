@@ -7,6 +7,7 @@ def es_bisiesto(year):
         return False
     return True
 
+#variables 
 dia = int(input("Día: "))
 mes = int(input("Mes: "))
 anyo = int(input("Año"))
